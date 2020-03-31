@@ -2,6 +2,7 @@ package biblioteca;
 
 public class Jornal {
 	private String nome;
+	private String titulo;
 
 	public String getNome() {
 		return nome;
